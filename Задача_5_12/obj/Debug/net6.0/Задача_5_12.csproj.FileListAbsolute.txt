@@ -1,0 +1,15 @@
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\bin\Debug\net6.0\Задача_5_12.exe
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\bin\Debug\net6.0\Задача_5_12.deps.json
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\bin\Debug\net6.0\Задача_5_12.runtimeconfig.json
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\bin\Debug\net6.0\Задача_5_12.dll
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\bin\Debug\net6.0\Задача_5_12.pdb
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\Задача_5_12.csproj.AssemblyReference.cache
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\Задача_5_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\Задача_5_12.AssemblyInfoInputs.cache
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\Задача_5_12.AssemblyInfo.cs
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\Задача_5_12.csproj.CoreCompileInputs.cache
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\Задача_5_12.dll
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\refint\Задача_5_12.dll
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\Задача_5_12.pdb
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\Задача_5_12.genruntimeconfig.cache
+C:\Users\s.sergeev\Desktop\Задачи\Задача_5_12\obj\Debug\net6.0\ref\Задача_5_12.dll
